@@ -64,3 +64,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Laravel Passport
+composer require psr/http-message:^1.0.1 league/uri:^6.7 league/oauth2-server:^8.5.1 laravel/passport:^11.8
